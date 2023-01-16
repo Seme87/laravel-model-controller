@@ -1,0 +1,17 @@
+@import "~bootstrap/scss/bootstrap";
+
+body {
+    background-color: black;
+    h1 {
+        color: white;
+    }
+}
+
+.ms-card {
+    font-size: 10px;
+}
+
+.card-text {
+    color: white;
+    background-color: lightblue;
+}
